@@ -1,7 +1,7 @@
 # 1.两数之和
 
 ## 题目
-[Leetcode 链接](https://leetcode.cn/problems/two-sum/description/?envType=study-plan-v2&envId=top-100-liked)
+[1.两数之和](https://leetcode.cn/problems/two-sum/description/?envType=study-plan-v2&envId=top-100-liked)
 
 ## 思路
 1. 两个for循环直接暴力解决，但是这个时间复杂度太大了
